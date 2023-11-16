@@ -1,0 +1,14 @@
+﻿<Project>
+    <PropertyGroup>
+        <ModName>$(RootNamespace)</ModName>
+        <ModAuthor>Millzy</ModAuthor>
+        <ModVersion>0.1.0</ModVersion>
+        <ModDescription>Some minor fixes to prevent softlocks in Fantasy Arena.</ModDescription>
+        <ModId>dev.millzy.$(ModName)</ModId>
+        <ModWebsiteUrl>https://github.com/MillzyDev/BonelabRandomizer</ModWebsiteUrl>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <ModDependencies Include="LavaGang-MelonLoader-0.5.7" />
+    </ItemGroup>
+</Project> 
