@@ -5,7 +5,7 @@
         <ModVersion>0.1.0</ModVersion>
         <ModDescription>Some minor patches to reduce/prevent softlocks in Fantasy Arena.</ModDescription>
         <ModId>dev.millzy.$(ModName)</ModId>
-        <ModWebsiteUrl>https://github.com/MillzyDev/BonelabRandomizer</ModWebsiteUrl>
+        <ModWebsiteUrl>https://github.com/MillzyDev/ArenaFix</ModWebsiteUrl>
     </PropertyGroup>
 
     <ItemGroup>
